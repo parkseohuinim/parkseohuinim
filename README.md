@@ -2,7 +2,7 @@
 	<img src="https://capsule-render.vercel.app/api?type=soft&color=auto&height=150&section=header&text=SeohuiPark&fontSize=70&animation=twinkling"/>
 </p>
 
-#### <h1 align="center"> _Software Engineer_ </p>
+#### <h1 align="center"> _Software Engineer_ </h1>
 	
 <h3 align="center">🛠 Teck Stack 🛠</p>
 
