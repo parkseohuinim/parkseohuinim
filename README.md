@@ -23,7 +23,8 @@
 </p>
 
 <p align="center">
-  <a href="mailto:viliketh1s98@naver.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=parkseohuinim@gmail.com"/></a>
+  <a href="mailto:parkseohuinim@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=parkseohuinim@gmail.com"/></a>
+  <a href="https://shplab.tistory.com"><img src="http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://shplab.tistory.com"/></a>
 </p>
 	
 [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://shplab.tistory.com/)](https://shplab.tistory.com/)
