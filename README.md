@@ -4,8 +4,8 @@
 ##### <h3 align="center"> 🛠 Teck Stack 🛠 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Kotlin-0095D5?style=flat-square&logo=Kotlin&logoColor=white"/></a>&nbsp
-  <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/></a>&nbsp
+	<img src="https://img.shields.io/badge/Kotlin-0095D5?style=flat-square&logo=Kotlin&logoColor=white"/></a>&nbsp
+	<img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/Javascript-F7DF1E?style=flat-square&logo=javascript&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white"/></a>&nbsp
@@ -24,7 +24,7 @@
 
 <p align="center">
   <a href="mailto:parkseohuinim@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=parkseohuinim@gmail.com"/></a>
-  <a href="https://shplab.tistory.com"><img src="http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://shplab.tistory.com"/></a>
+  <a href="https://shplab.tistory.com"><img src="http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://shplab.tistory.com"/>	</a>
 </p>
 	
 [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://shplab.tistory.com/)](https://shplab.tistory.com/)
