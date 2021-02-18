@@ -1,8 +1,6 @@
 <p align="center">
 	<img src="https://capsule-render.vercel.app/api?type=soft&color=auto&height=150&section=header&text=Seohuih%20Park&fontSize=70&animation=twinkling"/>
 </p>
-
-#### <h2 align="center"> ⭐ _Software Engineer_ ⭐ </h2>
 	
 <h3 align="center"> 🛠 Tech Stack 🛠 </h3>
 
