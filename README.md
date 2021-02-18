@@ -4,7 +4,7 @@
 
 #### <h1 align="center"> ⭐ _Software Engineer_ ⭐ </h1>
 	
-<h3 align="center">🛠 Teck Stack 🛠</p>
+<h3 align="center"> 🛠 Teck Stack 🛠 </h3>
 
 <p align="center">
 	<img src="https://img.shields.io/badge/Kotlin-0095D5?style=flat-square&logo=Kotlin&logoColor=white"/>&nbsp
