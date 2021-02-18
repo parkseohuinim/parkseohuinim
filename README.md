@@ -29,8 +29,14 @@
 <h3 align="center">✍🏻 Interesting✍🏻</h3>
 
 <p align="center">
+	<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>&nbsp
 	<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=TypeScript&logoColor=white"/>&nbsp
+	<img src="https://img.shields.io/badge/Unity-000000?style=flat-square&logo=Unity&logoColor=white"/>&nbsp
+	<img src="https://img.shields.io/badge/UnrealEngine-313131?style=flat-square&logo=Unreal-Engine&logoColor=white"/>&nbsp
+	<img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=Go&logoColor=white"/>&nbsp
+	<img src="https://img.shields.io/badge/Scala-DC322F?style=flat-square&logo=Scala&logoColor=white"/>&nbsp
 </p>
+<br>
 
 <h3 align="center">🧙🏻 Me 🧙🏻</h3>
 
