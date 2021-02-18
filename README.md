@@ -4,7 +4,7 @@
 
 #### <h1 align="center"> ⭐ _Software Engineer_ ⭐ </h1>
 	
-<h3 align="center"> 🛠 Teck Stack 🛠 </h3>
+<h3 align="center"> 🛠 Tech Stack 🛠 </h3>
 
 <p align="center">
 	<img src="https://img.shields.io/badge/Kotlin-0095D5?style=flat-square&logo=Kotlin&logoColor=white"/>&nbsp
@@ -23,7 +23,7 @@
 	<br>
 	<img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white"/>&nbsp 
 	<img src="https://img.shields.io/badge/Elasticsearch-005571?style=flat-square&logo=elasticsearch&logoColor=white"/>&nbsp 
-</p>
+</p><br><br>
 
 <h3 align="center">🧙🏻 Me 🧙🏻</h3>
 
@@ -32,7 +32,7 @@
 	</a>
 	<a href="mailto:parkseohuinim@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=parkseohuinim@gmail.com"/>
 	</a>
-</p>
+</p><br><br>
 	
 <p align="center">
 	<a href="https://hits.seeyoufarm.com">
