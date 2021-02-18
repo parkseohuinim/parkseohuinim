@@ -1,7 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=soft&color=auto&height=150&section=header&text=SeohuiPark&fontSize=70&animation=twinkling)
 #### <p align="center"> 🌟 _Software Engineer_ </p>
 
-<p align="center"> [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://shplab.tistory.com/)](https://shplab.tistory.com/) </p>
+[![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://shplab.tistory.com/)](https://shplab.tistory.com/)
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:parkseohuinim@gmail.com)](mailto:parkseohuinim@gmail.com)
 	
 
