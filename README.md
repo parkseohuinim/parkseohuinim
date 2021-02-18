@@ -1,7 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=soft&color=auto&height=150&section=header&text=SeohuiPark&fontSize=70&animation=twinkling)
-#### <h1 align="center"> 🌟 _Software Engineer_ </p>
+<h1 align="center"> 🌟 _Software Engineer_ </p>
 	
-##### <h3 align="center"> 🛠 Teck Stack 🛠 </p>
+<h3 align="center"> 🛠 Teck Stack 🛠 </p>
 
 <p align="center">
 	<img src="https://img.shields.io/badge/Kotlin-0095D5?style=flat-square&logo=Kotlin&logoColor=white"/></a>&nbsp
@@ -21,6 +21,8 @@
 	<img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white"/></a>&nbsp 
 	<img src="https://img.shields.io/badge/Elasticsearch-005571?style=flat-square&logo=elasticsearch&logoColor=white"/></a>&nbsp 
 </p>
+
+<h3 align="center"> Me </h3>
 
 <p align="center">
 	<a href="mailto:parkseohuinim@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=parkseohuinim@gmail.com"/></a>
